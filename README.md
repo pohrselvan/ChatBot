@@ -19,3 +19,7 @@ cd chatbot`
 `pip install transformers bitsandbytes`
 6. Run the Interface file
 `python interface.py`
+
+# Example Working Image
+![image](https://github.com/user-attachments/assets/6ff158e7-1853-494c-acb4-20e8db4cdde6)
+
