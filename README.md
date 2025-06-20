@@ -1,4 +1,5 @@
 # ChatBot 
+I have created a chatbot using Qwen 0.6B model with window memory ranging from 3-5.
 # Instruction for setup 
 1. git clone the repo
 `git clone https://github.com/pohrselvan/ChatBot`
